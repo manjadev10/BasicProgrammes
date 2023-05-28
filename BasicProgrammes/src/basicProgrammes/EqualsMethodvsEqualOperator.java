@@ -1,9 +1,8 @@
 package basicProgrammes;
 
-public class EqualsvsEqual {
+public class EqualsMethodvsEqualOperator {
 
 	public static void main(String[] args) {
-		@SuppressWarnings("removal")
 		String s="abc";
 		String p="abc";
 		
