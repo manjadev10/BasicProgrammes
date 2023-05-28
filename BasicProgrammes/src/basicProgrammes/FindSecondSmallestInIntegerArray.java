@@ -3,7 +3,7 @@ package basicProgrammes;
 import java.util.Arrays;
 import java.util.Objects;
 
-public class PracticeArrays {
+public class FindSecondSmallestInIntegerArray {
 	public static Integer findSecondSmallestItem2(Integer[] arr) {
 
         if (arr.length <= 1)                          //if array has only one element then programme should return null

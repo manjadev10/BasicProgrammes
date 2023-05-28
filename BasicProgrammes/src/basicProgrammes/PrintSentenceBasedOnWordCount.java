@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeMap;
 
-public class PrintBasedOnWordCount {
+public class PrintSentenceBasedOnWordCount {
 
 	public static int countOccurrence(String word, String sentence){
 		
